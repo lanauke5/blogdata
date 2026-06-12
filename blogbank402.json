@@ -1,52 +1,352 @@
 [
-  { "title": "Best Online Florists For Birthdays", "url": "https://bestonlineflorist sbirthdayshub.blogspot.com", "desc": "Flowers that arrive on time and look even better in person." },
-  { "title": "Best Online Bakery Delivery", "url": "https://bestonlinebakerydeliveryhub.blogspot.com", "desc": "Bakery-fresh treats without leaving the house." },
-  { "title": "Best Snack Subscription Boxes", "url": "https://bestsnacksubscriptionboxeshub.blogspot.com", "desc": "Discover snacks you didn't know you needed." },
-  { "title": "Best Hot Sauce Brands", "url": "https://besthotsaucebrandshub.blogspot.com", "desc": "Heat that actually has flavor behind it." },
-  { "title": "Best BBQ Sauce Brands", "url": "https://bestbbqsaucebrandshub.blogspot.com", "desc": "The sauce that makes people ask for the recipe." },
-  { "title": "Best Olive Oil Brands", "url": "https://bestoliveoilbrandshub.blogspot.com", "desc": "Quality you can actually taste in every dish." },
-  { "title": "Best Spice Subscription Services", "url": "https://bestspicesubscriptionserviceshub.blogspot.com", "desc": "Fresh spices that make old recipes taste new again." },
-  { "title": "Best Vegan Food Brands", "url": "https://bestveganfoodbrandshub.blogspot.com", "desc": "Plant-based options that don't feel like a compromise." },
-  { "title": "Best Gluten Free Food Brands", "url": "https://bestglutenfreefoodbrandshub.blogspot.com", "desc": "Finally, gluten-free that doesn't taste like cardboard." },
-  { "title": "Best Keto Food Brands", "url": "https://bestketofoodbrandshub.blogspot.com", "desc": "Low-carb options that satisfy real cravings." },
-  { "title": "Best Protein Bar Brands", "url": "https://bestproteinbarbrandshub.blogspot.com", "desc": "Snacks that fuel you without tasting like chalk." },
-  { "title": "Best Energy Drink Brands", "url": "https://bestenergydrinkbrandshub.blogspot.com", "desc": "A real boost without the afternoon crash." },
-  { "title": "Best Sparkling Water Brands", "url": "https://bestsparklingwaterbrandshub.blogspot.com", "desc": "The fizz upgrade that replaced soda for good." },
-  { "title": "Best Cocktail Mixers", "url": "https://bestcocktailmixershub.blogspot.com", "desc": "Bar-quality drinks made simple at home." },
-  { "title": "Best Non Alcoholic Drink Brands", "url": "https://bestnonalcoholicdrinkbrandshub.blogspot.com", "desc": "All the flavor, none of the hangover." },
-  { "title": "Best Home Brewing Kits", "url": "https://besthomebrewingkitshub.blogspot.com", "desc": "Brew your own — and actually enjoy the result." },
-  { "title": "Best Wine Accessories", "url": "https://bestwineaccessorieshub.blogspot.com", "desc": "Small tools that make every bottle taste better." },
-  { "title": "Best Bartending Kits", "url": "https://bestbartendingkitshub.blogspot.com", "desc": "Mix like a pro without the bartending course." },
-  { "title": "Best Charcuterie Board Sets", "url": "https://bestcharcuterieboardsetshub.blogspot.com", "desc": "Make any gathering look effortlessly impressive." },
-  { "title": "Best Pizza Oven Brands", "url": "https://bestpizzaovenbrandshub.blogspot.com", "desc": "Restaurant-style pizza in your own backyard." },
-  { "title": "Best Sous Vide Machines", "url": "https://bestsousvidemachineshub.blogspot.com", "desc": "Perfectly cooked meat, every single time." },
-  { "title": "Best Ice Cream Makers", "url": "https://besticecreammakershub.blogspot.com", "desc": "Homemade flavors that beat the store every time." },
-  { "title": "Best Juicer Brands", "url": "https://bestjuicerbrandshub.blogspot.com", "desc": "Fresh juice without the cleanup nightmare." },
-  { "title": "Best Coffee Grinder Brands", "url": "https://bestcoffeegrinderbrandshub.blogspot.com", "desc": "The upgrade that makes every cup taste fresher." },
-  { "title": "Best French Press Brands", "url": "https://bestfrenchpressbrandshub.blogspot.com", "desc": "Rich, full-bodied coffee with almost no equipment." },
-  { "title": "Best Cold Brew Makers", "url": "https://bestcoldbrewmakershub.blogspot.com", "desc": "Smooth, low-acid coffee made right at home." },
-  { "title": "Best Tea Kettle Brands", "url": "https://bestteakettlebrandshub.blogspot.com", "desc": "Faster boils, better pours, no more burnt-out elements." },
-  { "title": "Best Online Wine Clubs", "url": "https://bestonlinewineclubshub.blogspot.com", "desc": "Curated bottles that turn casual sippers into real fans." },
-  { "title": "Best Meal Planning Apps", "url": "https://bestmealplanningappshub.blogspot.com", "desc": "Dinner decided before you even open the fridge." },
-  { "title": "Best Recipe Organizer Apps", "url": "https://bestrecipeorganizerappshub.blogspot.com", "desc": "All your favorite recipes, finally in one place." },
-  { "title": "Best Grocery Delivery Apps", "url": "https://bestgrocerydeliveryappshub.blogspot.com", "desc": "Skip the store without skipping freshness." },
-  { "title": "Best Restaurant Reservation Apps", "url": "https://bestrestaurantreservationapps.blogspot.com", "desc": "Get the table everyone else couldn't book." },
-  { "title": "Best Food Delivery Services", "url": "https://bestfooddeliveryserviceshub.blogspot.com", "desc": "Faster delivery, better deals — the apps worth keeping." },
-  { "title": "Best Restaurant Discount Apps", "url": "https://bestrestaurantdiscountappshub.blogspot.com", "desc": "Eat out more without spending more." },
-  { "title": "Best Loyalty Apps For Coffee Shops", "url": "https://bestloyaltyappscoffeeshops.blogspot.com", "desc": "Free coffee adds up faster than you think." },
-  { "title": "Best Online Cake Delivery", "url": "https://bestonlinecakedeliveryhub.blogspot.com", "desc": "Celebrations that show up looking exactly as ordered." },
-  { "title": "Best Personalized Gift Sites", "url": "https://bestpersonalizedgiftsiteshub.blogspot.com", "desc": "Gifts that feel thought-out, not last-minute." },
-  { "title": "Best Online Greeting Services", "url": "https://bestonlinegreetingserviceshub.blogspot.com", "desc": "Send something that actually feels personal — fast." },
-  { "title": "Best Subscription Gift Boxes", "url": "https://bestsubscriptiongiftboxeshub.blogspot.com", "desc": "A gift that keeps showing up, long after the wrapping's gone." },
-  { "title": "Best Anniversary Gift Ideas Sites", "url": "https://bestanniversarygiftideassites.blogspot.com", "desc": "Find something that actually matches the moment." },
-  { "title": "Best Mother's Day Gift Sites", "url": "https://bestmothersdaygiftsiteshub.blogspot.com", "desc": "Gifts that say more than a card ever could." },
-  { "title": "Best Father's Day Gift Sites", "url": "https://bestfathersdaygiftsiteshub.blogspot.com", "desc": "Skip the tie — these gifts actually get used." },
-  { "title": "Best Graduation Gift Ideas Sites", "url": "https://bestgraduationgiftideassites.blogspot.com", "desc": "Mark the milestone with something that matters." },
-  { "title": "Best Housewarming Gift Sites", "url": "https://besthousewarminggiftsiteshub.blogspot.com", "desc": "Gifts that make a new place feel like home." },
-  { "title": "Best Corporate Gift Companies", "url": "https://bestcorporategiftcompanieshub.blogspot.com", "desc": "Gifts that make clients remember you — for the right reasons." },
-  { "title": "Best Custom T-Shirt Printing Sites", "url": "https://bestcustomtshirtprintingsites.blogspot.com", "desc": "Designs that look professional, printed in days not weeks." },
-  { "title": "Best Custom Mug Printing Sites", "url": "https://bestcustommugprintingsiteshub.blogspot.com", "desc": "A morning coffee mug that's actually one of a kind." },
-  { "title": "Best Engraving Services Online", "url": "https://bestengravingservicesonlinehub.blogspot.com", "desc": "Add a personal touch that turns an item into a keepsake." },
-  { "title": "Best Online Picture Framing Services", "url": "https://bestonlinepictureframingservices.blogspot.com", "desc": "Frame memories without the custom shop price tag." },
-  { "title": "Best Wall Art And Decor Sites", "url": "https://bestwallartdecorsiteshub.blogspot.com", "desc": "Turn blank walls into something worth looking at." }
+  {
+    "id": 1300,
+    "aff_id": 1300,
+    "title": "Best Online Florists For Birthdays",
+    "url": "https://bestonlinefloristsbirthdayshub.blogspot.com",
+    "desc": "Flowers that arrive on time and look even better in person."
+  },
+  {
+    "id": 1301,
+    "aff_id": 1301,
+    "title": "Best Online Bakery Delivery",
+    "url": "https://bestonlinebakerydeliveryhub.blogspot.com",
+    "desc": "Bakery-fresh treats without leaving the house."
+  },
+  {
+    "id": 1302,
+    "aff_id": 1302,
+    "title": "Best Snack Subscription Boxes",
+    "url": "https://bestsnacksubscriptionboxeshub.blogspot.com",
+    "desc": "Discover snacks you didn't know you needed."
+  },
+  {
+    "id": 1303,
+    "aff_id": 1303,
+    "title": "Best Hot Sauce Brands",
+    "url": "https://besthotsaucebrandshub.blogspot.com",
+    "desc": "Heat that actually has flavor behind it."
+  },
+  {
+    "id": 1304,
+    "aff_id": 1304,
+    "title": "Best BBQ Sauce Brands",
+    "url": "https://bestbbqsaucebrandshub.blogspot.com",
+    "desc": "The sauce that makes people ask for the recipe."
+  },
+  {
+    "id": 1305,
+    "aff_id": 1305,
+    "title": "Best Olive Oil Brands",
+    "url": "https://bestoliveoilbrandshub.blogspot.com",
+    "desc": "Quality you can actually taste in every dish."
+  },
+  {
+    "id": 1306,
+    "aff_id": 1306,
+    "title": "Best Spice Subscription Services",
+    "url": "https://bestspicesubscriptionserviceshub.blogspot.com",
+    "desc": "Fresh spices that make old recipes taste new again."
+  },
+  {
+    "id": 1307,
+    "aff_id": 1307,
+    "title": "Best Vegan Food Brands",
+    "url": "https://bestveganfoodbrandshub.blogspot.com",
+    "desc": "Plant-based options that don't feel like a compromise."
+  },
+  {
+    "id": 1308,
+    "aff_id": 1308,
+    "title": "Best Gluten Free Food Brands",
+    "url": "https://bestglutenfreefoodbrandshub.blogspot.com",
+    "desc": "Finally, gluten-free that doesn't taste like cardboard."
+  },
+  {
+    "id": 1309,
+    "aff_id": 1309,
+    "title": "Best Keto Food Brands",
+    "url": "https://bestketofoodbrandshub.blogspot.com",
+    "desc": "Low-carb options that satisfy real cravings."
+  },
+  {
+    "id": 1310,
+    "aff_id": 1310,
+    "title": "Best Protein Bar Brands",
+    "url": "https://bestproteinbarbrandshub.blogspot.com",
+    "desc": "Snacks that fuel you without tasting like chalk."
+  },
+  {
+    "id": 1311,
+    "aff_id": 1311,
+    "title": "Best Energy Drink Brands",
+    "url": "https://bestenergydrinkbrandshub.blogspot.com",
+    "desc": "A real boost without the afternoon crash."
+  },
+  {
+    "id": 1312,
+    "aff_id": 1312,
+    "title": "Best Sparkling Water Brands",
+    "url": "https://bestsparklingwaterbrandshub.blogspot.com",
+    "desc": "The fizz upgrade that replaced soda for good."
+  },
+  {
+    "id": 1313,
+    "aff_id": 1313,
+    "title": "Best Cocktail Mixers",
+    "url": "https://bestcocktailmixershub.blogspot.com",
+    "desc": "Bar-quality drinks made simple at home."
+  },
+  {
+    "id": 1314,
+    "aff_id": 1314,
+    "title": "Best Non Alcoholic Drink Brands",
+    "url": "https://bestnonalcoholicdrinkbrandshub.blogspot.com",
+    "desc": "All the flavor, none of the hangover."
+  },
+  {
+    "id": 1315,
+    "aff_id": 1315,
+    "title": "Best Home Brewing Kits",
+    "url": "https://besthomebrewingkitshub.blogspot.com",
+    "desc": "Brew your own — and actually enjoy the result."
+  },
+  {
+    "id": 1316,
+    "aff_id": 1316,
+    "title": "Best Wine Accessories",
+    "url": "https://bestwineaccessorieshub.blogspot.com",
+    "desc": "Small tools that make every bottle taste better."
+  },
+  {
+    "id": 1317,
+    "aff_id": 1317,
+    "title": "Best Bartending Kits",
+    "url": "https://bestbartendingkitshub.blogspot.com",
+    "desc": "Mix like a pro without the bartending course."
+  },
+  {
+    "id": 1318,
+    "aff_id": 1318,
+    "title": "Best Charcuterie Board Sets",
+    "url": "https://bestcharcuterieboardsetshub.blogspot.com",
+    "desc": "Make any gathering look effortlessly impressive."
+  },
+  {
+    "id": 1319,
+    "aff_id": 1319,
+    "title": "Best Pizza Oven Brands",
+    "url": "https://bestpizzaovenbrandshub.blogspot.com",
+    "desc": "Restaurant-style pizza in your own backyard."
+  },
+  {
+    "id": 1320,
+    "aff_id": 1320,
+    "title": "Best Sous Vide Machines",
+    "url": "https://bestsousvidemachineshub.blogspot.com",
+    "desc": "Perfectly cooked meat, every single time."
+  },
+  {
+    "id": 1321,
+    "aff_id": 1321,
+    "title": "Best Ice Cream Makers",
+    "url": "https://besticecreammakershub.blogspot.com",
+    "desc": "Homemade flavors that beat the store every time."
+  },
+  {
+    "id": 1322,
+    "aff_id": 1322,
+    "title": "Best Juicer Brands",
+    "url": "https://bestjuicerbrandshub.blogspot.com",
+    "desc": "Fresh juice without the cleanup nightmare."
+  },
+  {
+    "id": 1323,
+    "aff_id": 1323,
+    "title": "Best Coffee Grinder Brands",
+    "url": "https://bestcoffeegrinderbrandshub.blogspot.com",
+    "desc": "The upgrade that makes every cup taste fresher."
+  },
+  {
+    "id": 1324,
+    "aff_id": 1324,
+    "title": "Best French Press Brands",
+    "url": "https://bestfrenchpressbrandshub.blogspot.com",
+    "desc": "Rich, full-bodied coffee with almost no equipment."
+  },
+  {
+    "id": 1325,
+    "aff_id": 1325,
+    "title": "Best Cold Brew Makers",
+    "url": "https://bestcoldbrewmakershub.blogspot.com",
+    "desc": "Smooth, low-acid coffee made right at home."
+  },
+  {
+    "id": 1326,
+    "aff_id": 1326,
+    "title": "Best Tea Kettle Brands",
+    "url": "https://bestteakettlebrandshub.blogspot.com",
+    "desc": "Faster boils, better pours, no more burnt-out elements."
+  },
+  {
+    "id": 1327,
+    "aff_id": 1327,
+    "title": "Best Online Wine Clubs",
+    "url": "https://bestonlinewineclubshub.blogspot.com",
+    "desc": "Curated bottles that turn casual sippers into real fans."
+  },
+  {
+    "id": 1328,
+    "aff_id": 1328,
+    "title": "Best Meal Planning Apps",
+    "url": "https://bestmealplanningappshub.blogspot.com",
+    "desc": "Dinner decided before you even open the fridge."
+  },
+  {
+    "id": 1329,
+    "aff_id": 1329,
+    "title": "Best Recipe Organizer Apps",
+    "url": "https://bestrecipeorganizerappshub.blogspot.com",
+    "desc": "All your favorite recipes, finally in one place."
+  },
+  {
+    "id": 1330,
+    "aff_id": 1330,
+    "title": "Best Grocery Delivery Apps",
+    "url": "https://bestgrocerydeliveryappshub.blogspot.com",
+    "desc": "Skip the store without skipping freshness."
+  },
+  {
+    "id": 1331,
+    "aff_id": 1331,
+    "title": "Best Restaurant Reservation Apps",
+    "url": "https://bestrestaurantreservationapps.blogspot.com",
+    "desc": "Get the table everyone else couldn't book."
+  },
+  {
+    "id": 1332,
+    "aff_id": 1332,
+    "title": "Best Food Delivery Services",
+    "url": "https://bestfooddeliveryserviceshub.blogspot.com",
+    "desc": "Faster delivery, better deals — the apps worth keeping."
+  },
+  {
+    "id": 1333,
+    "aff_id": 1333,
+    "title": "Best Restaurant Discount Apps",
+    "url": "https://bestrestaurantdiscountappshub.blogspot.com",
+    "desc": "Eat out more without spending more."
+  },
+  {
+    "id": 1334,
+    "aff_id": 1334,
+    "title": "Best Loyalty Apps For Coffee Shops",
+    "url": "https://bestloyaltyappscoffeeshops.blogspot.com",
+    "desc": "Free coffee adds up faster than you think."
+  },
+  {
+    "id": 1335,
+    "aff_id": 1335,
+    "title": "Best Online Cake Delivery",
+    "url": "https://bestonlinecakedeliveryhub.blogspot.com",
+    "desc": "Celebrations that show up looking exactly as ordered."
+  },
+  {
+    "id": 1336,
+    "aff_id": 1336,
+    "title": "Best Personalized Gift Sites",
+    "url": "https://bestpersonalizedgiftsiteshub.blogspot.com",
+    "desc": "Gifts that feel thought-out, not last-minute."
+  },
+  {
+    "id": 1337,
+    "aff_id": 1337,
+    "title": "Best Online Greeting Services",
+    "url": "https://bestonlinegreetingserviceshub.blogspot.com",
+    "desc": "Send something that actually feels personal — fast."
+  },
+  {
+    "id": 1338,
+    "aff_id": 1338,
+    "title": "Best Subscription Gift Boxes",
+    "url": "https://bestsubscriptiongiftboxeshub.blogspot.com",
+    "desc": "A gift that keeps showing up, long after the wrapping's gone."
+  },
+  {
+    "id": 1339,
+    "aff_id": 1339,
+    "title": "Best Anniversary Gift Ideas Sites",
+    "url": "https://bestanniversarygiftideassites.blogspot.com",
+    "desc": "Find something that actually matches the moment."
+  },
+  {
+    "id": 1340,
+    "aff_id": 1340,
+    "title": "Best Mother's Day Gift Sites",
+    "url": "https://bestmothersdaygiftsiteshub.blogspot.com",
+    "desc": "Gifts that say more than a card ever could."
+  },
+  {
+    "id": 1341,
+    "aff_id": 1341,
+    "title": "Best Father's Day Gift Sites",
+    "url": "https://bestfathersdaygiftsiteshub.blogspot.com",
+    "desc": "Skip the tie — these gifts actually get used."
+  },
+  {
+    "id": 1342,
+    "aff_id": 1342,
+    "title": "Best Graduation Gift Ideas Sites",
+    "url": "https://bestgraduationgiftideassites.blogspot.com",
+    "desc": "Mark the milestone with something that matters."
+  },
+  {
+    "id": 1343,
+    "aff_id": 1343,
+    "title": "Best Housewarming Gift Sites",
+    "url": "https://besthousewarminggiftsiteshub.blogspot.com",
+    "desc": "Gifts that make a new place feel like home."
+  },
+  {
+    "id": 1344,
+    "aff_id": 1344,
+    "title": "Best Corporate Gift Companies",
+    "url": "https://bestcorporategiftcompanieshub.blogspot.com",
+    "desc": "Gifts that make clients remember you — for the right reasons."
+  },
+  {
+    "id": 1345,
+    "aff_id": 1345,
+    "title": "Best Custom T-Shirt Printing Sites",
+    "url": "https://bestcustomtshirtprintingsites.blogspot.com",
+    "desc": "Designs that look professional, printed in days not weeks."
+  },
+  {
+    "id": 1346,
+    "aff_id": 1346,
+    "title": "Best Custom Mug Printing Sites",
+    "url": "https://bestcustommugprintingsiteshub.blogspot.com",
+    "desc": "A morning coffee mug that's actually one of a kind."
+  },
+  {
+    "id": 1347,
+    "aff_id": 1347,
+    "title": "Best Engraving Services Online",
+    "url": "https://bestengravingservicesonlinehub.blogspot.com",
+    "desc": "Add a personal touch that turns an item into a keepsake."
+  },
+  {
+    "id": 1348,
+    "aff_id": 1348,
+    "title": "Best Online Picture Framing Services",
+    "url": "https://bestonlinepictureframingservices.blogspot.com",
+    "desc": "Frame memories without the custom shop price tag."
+  },
+  {
+    "id": 1349,
+    "aff_id": 1349,
+    "title": "Best Wall Art And Decor Sites",
+    "url": "https://bestwallartdecorsiteshub.blogspot.com",
+    "desc": "Turn blank walls into something worth looking at."
+  }
 ]
