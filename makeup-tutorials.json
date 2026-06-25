@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Beginner Makeup Routine: From Bare Skin to Gorgeous Glow",
+    "desc": "Master the full 10-step makeup routine designed specifically for beginners. We cover everything from moisturizer and primer to setting spray — with product picks at every budget.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/complete-beginner-makeup-routine.html",
+    "cat": "skin",
+    "tag": "full routine",
+    "emoji": "✨",
+    "reads": "8 min"
+  },
+  {
+    "id": 2,
+    "title": "How to Apply Foundation for Beginners: Step-by-Step Guide",
+    "desc": "Learn the right way to apply liquid, powder, and stick foundation for a flawless, natural finish every time. Includes tips for matching your skin tone.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/how-to-apply-foundation-beginners.html",
+    "cat": "skin",
+    "tag": "foundation",
+    "emoji": "🧴",
+    "reads": "6 min"
+  },
+  {
+    "id": 3,
+    "title": "Easy Winged Eyeliner Tutorial for Absolute Beginners",
+    "desc": "Nail the perfect cat-eye wing using a felt-tip liner. Includes tips for steady hands, fixing mistakes, and achieving symmetry on both eyes.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/easy-winged-eyeliner-beginners.html",
+    "cat": "eyes",
+    "tag": "eyeliner",
+    "emoji": "👁️",
+    "reads": "5 min"
+  },
+  {
+    "id": 4,
+    "title": "Natural Everyday Makeup Look in Under 10 Minutes",
+    "desc": "A quick, simple routine using just 5 products for a fresh, put-together look on busy mornings. Perfect for school, work, or errands.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/natural-everyday-makeup-look.html",
+    "cat": "skin",
+    "tag": "natural look",
+    "emoji": "🌿",
+    "reads": "4 min"
+  },
+  {
+    "id": 5,
+    "title": "Beginner's Guide to Eyeshadow Blending — No More Muddy Eyes",
+    "desc": "Master the cut crease, transition shade, and blending technique with affordable palettes. Step-by-step photos included for every stage.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/beginners-guide-eyeshadow-blending.html",
+    "cat": "eyes",
+    "tag": "eyeshadow",
+    "emoji": "💜",
+    "reads": "7 min"
+  },
+  {
+    "id": 6,
+    "title": "How to Fill in Your Eyebrows: From Sparse to Defined",
+    "desc": "Shape and fill brows using pencil, powder, or pomade. Includes a face-shape guide for finding the most flattering arch for your features.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/how-to-fill-eyebrows-beginners.html",
+    "cat": "brows",
+    "tag": "brows",
+    "emoji": "✏️",
+    "reads": "5 min"
+  },
+  {
+    "id": 7,
+    "title": "Drugstore Contour Tutorial for Beginners",
+    "desc": "Chiseled cheekbones without the luxury price tag. The best drugstore contour sticks ranked and how to blend them for a natural sculpted look.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/drugstore-contour-tutorial-beginners.html",
+    "cat": "contour",
+    "tag": "contour",
+    "emoji": "✦",
+    "reads": "6 min"
+  },
+  {
+    "id": 8,
+    "title": "Perfect Red Lip: A Step-by-Step Beginner Tutorial",
+    "desc": "Achieve a classic, bold red lip without feathering or bleeding — liner tricks, product picks for cool and warm skin tones, and all.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/perfect-red-lip-tutorial-beginners.html",
+    "cat": "lips",
+    "tag": "lip color",
+    "emoji": "💋",
+    "reads": "5 min"
+  },
+  {
+    "id": 9,
+    "title": "Glass Skin Makeup: Dewy Base for Beginners",
+    "desc": "Achieve that coveted Korean glass skin look using lightweight products and layering techniques. Your complete guide from toner to setting mist.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/glass-skin-makeup-dewy-base-beginners.html",
+    "cat": "skin",
+    "tag": "glass skin",
+    "emoji": "💧",
+    "reads": "6 min"
+  },
+  {
+    "id": 10,
+    "title": "Choosing the Right Makeup Brushes for Beginners",
+    "desc": "The only 6 brushes you actually need as a beginner, what each one does, how to hold them, and the best way to clean them after use.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/choosing-makeup-brushes-beginners.html",
+    "cat": "tools",
+    "tag": "brushes",
+    "emoji": "🖌️",
+    "reads": "5 min"
+  },
+  {
+    "id": 11,
+    "title": "How to Do a Smoky Eye Without Looking Messy",
+    "desc": "A beginner-friendly smoky eye using just 3 shades — neutral browns that work for any eye color and any occasion, from day to night.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/smoky-eye-tutorial-beginners.html",
+    "cat": "eyes",
+    "tag": "smoky eye",
+    "emoji": "🖤",
+    "reads": "7 min"
+  },
+  {
+    "id": 12,
+    "title": "Easy Blush & Highlight Placement for Round Faces",
+    "desc": "Where to apply blush and highlighter to lift, define, and add the perfect flush of color for rounder face shapes without looking overdone.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/blush-highlight-placement-round-faces.html",
+    "cat": "contour",
+    "tag": "blush",
+    "emoji": "🌸",
+    "reads": "4 min"
+  },
+  {
+    "id": 13,
+    "title": "Mascara Tips for Beginners: Volumize Without Clumps",
+    "desc": "The right way to curl, coat, and separate lashes for wide-awake, flutter-worthy results. Includes the best drugstore mascaras ranked.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/mascara-tips-beginners-volumize.html",
+    "cat": "eyes",
+    "tag": "mascara",
+    "emoji": "🪄",
+    "reads": "4 min"
+  },
+  {
+    "id": 14,
+    "title": "How to Apply Concealer Like a Pro — Beginner Tutorial",
+    "desc": "Correct dark circles, blemishes, and redness using the right concealer shade and technique. Color correcting guide included for stubborn discoloration.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/how-to-apply-concealer-beginners.html",
+    "cat": "skin",
+    "tag": "concealer",
+    "emoji": "🫧",
+    "reads": "5 min"
+  },
+  {
+    "id": 15,
+    "title": "5-Minute No-Makeup Makeup Look for School",
+    "desc": "Look effortlessly polished before class with a 5-product routine that enhances your natural features. Light coverage, fresh glow, done.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/5-minute-no-makeup-look-school.html",
+    "cat": "skin",
+    "tag": "no makeup",
+    "emoji": "🎒",
+    "reads": "3 min"
+  },
+  {
+    "id": 16,
+    "title": "How to Choose the Right Foundation Shade for Your Skin Tone",
+    "desc": "Stop guessing your foundation shade. Learn to identify your undertone (cool, warm, neutral) and find your perfect match in any brand.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/choose-right-foundation-shade-skin-tone.html",
+    "cat": "skin",
+    "tag": "foundation",
+    "emoji": "🎨",
+    "reads": "6 min"
+  },
+  {
+    "id": 17,
+    "title": "Beginner Lip Liner Tutorial: Why You Need It & How to Use It",
+    "desc": "Lip liner isn't just for bold lips. Learn how to use it to define, resize, and make any lip color last longer all day.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/beginner-lip-liner-tutorial.html",
+    "cat": "lips",
+    "tag": "lip liner",
+    "emoji": "✏️",
+    "reads": "4 min"
+  },
+  {
+    "id": 18,
+    "title": "How to Apply Setting Powder Without Looking Cakey",
+    "desc": "Baking vs. dusting — which technique is right for you? The complete guide to setting your makeup for all-day wear without a powdery finish.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/setting-powder-without-looking-cakey.html",
+    "cat": "skin",
+    "tag": "setting powder",
+    "emoji": "☁️",
+    "reads": "5 min"
+  },
+  {
+    "id": 19,
+    "title": "Halo Eye Tutorial for Beginners: The Easiest Eye Look Ever",
+    "desc": "The halo eye is beginner-friendly, flattering on every eye shape, and requires only 3 shades. Here's exactly how to create it in minutes.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/halo-eye-tutorial-beginners.html",
+    "cat": "eyes",
+    "tag": "eyeshadow",
+    "emoji": "🌟",
+    "reads": "6 min"
+  },
+  {
+    "id": 20,
+    "title": "How to Make Your Lipstick Last All Day — 5 Easy Tricks",
+    "desc": "Use these 5 proven techniques to make any lipstick last through meals, drinks, and hours of wear without constant touch-ups.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/make-lipstick-last-all-day-tricks.html",
+    "cat": "lips",
+    "tag": "lipstick",
+    "emoji": "💄",
+    "reads": "4 min"
+  },
+  {
+    "id": 21,
+    "title": "Skincare Before Makeup: The Prep Routine Every Beginner Needs",
+    "desc": "Makeup only looks good on well-prepped skin. This pre-makeup skincare routine takes 5 minutes and makes a huge difference in how your base applies.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/skincare-before-makeup-prep-routine.html",
+    "cat": "skin",
+    "tag": "skincare",
+    "emoji": "🌿",
+    "reads": "5 min"
+  },
+  {
+    "id": 22,
+    "title": "Easy Ombre Lip Tutorial for Beginners",
+    "desc": "Create a beautiful gradient lip effect using two lipstick shades. Looks complicated but takes under 3 minutes once you know the trick.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/easy-ombre-lip-tutorial-beginners.html",
+    "cat": "lips",
+    "tag": "ombre lip",
+    "emoji": "🌅",
+    "reads": "4 min"
+  },
+  {
+    "id": 23,
+    "title": "How to Contour Your Nose: Beginner-Friendly Technique",
+    "desc": "Slim or reshape your nose using concealer and a matte bronzer. Includes diagrams for different nose shapes so you can customize the look.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/contour-nose-beginner-technique.html",
+    "cat": "contour",
+    "tag": "contour",
+    "emoji": "👃",
+    "reads": "5 min"
+  },
+  {
+    "id": 24,
+    "title": "Best Makeup Sponges vs Brushes: Which Should Beginners Use?",
+    "desc": "Beauty blender or brush? We compare the results side-by-side for foundation, concealer, and powder so you can make the right choice.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/makeup-sponges-vs-brushes-beginners.html",
+    "cat": "tools",
+    "tag": "sponge",
+    "emoji": "🫧",
+    "reads": "5 min"
+  },
+  {
+    "id": 25,
+    "title": "How to Laminate Your Brows at Home (Soap Brow Hack)",
+    "desc": "Fluffy, brushed-up brows using just a bar of soap and a spoolie. The viral soap brow technique explained step by step.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/soap-brow-hack-at-home.html",
+    "cat": "brows",
+    "tag": "soap brows",
+    "emoji": "🧼",
+    "reads": "3 min"
+  },
+  {
+    "id": 26,
+    "title": "Monolid Eye Makeup Tutorial for Beginners",
+    "desc": "Eye makeup techniques specifically designed for monolid eye shapes. Includes liner styles, shadow placement, and lash tips that actually show.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/monolid-eye-makeup-tutorial.html",
+    "cat": "eyes",
+    "tag": "monolid",
+    "emoji": "👀",
+    "reads": "6 min"
+  },
+  {
+    "id": 27,
+    "title": "Evening Glam Makeup Look for Beginners: Step-by-Step",
+    "desc": "Transform your everyday look into a full glam night-out look using products you already own. Darker eyes, bold lips, glowing skin.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/evening-glam-makeup-look-beginners.html",
+    "cat": "eyes",
+    "tag": "glam",
+    "emoji": "🪩",
+    "reads": "8 min"
+  },
+  {
+    "id": 28,
+    "title": "How to Apply Primer: Do You Really Need It?",
+    "desc": "Makeup primer explained — what it does, the different types (hydrating, pore-filling, color-correcting), and whether you actually need it in your routine.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/how-to-apply-primer-do-you-need-it.html",
+    "cat": "skin",
+    "tag": "primer",
+    "emoji": "🧪",
+    "reads": "5 min"
+  },
+  {
+    "id": 29,
+    "title": "Nude Lip Tutorial: Finding the Right Nude for Your Skin Tone",
+    "desc": "Not all nudes are created equal. Find the most flattering nude lip shade for your skin tone — from fair to deep — with real product recommendations.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/nude-lip-tutorial-right-shade-skin-tone.html",
+    "cat": "lips",
+    "tag": "nude lip",
+    "emoji": "🤍",
+    "reads": "5 min"
+  },
+  {
+    "id": 30,
+    "title": "Cut Crease Tutorial for Beginners: Clean & Easy Method",
+    "desc": "The cut crease looks advanced but this method uses tape for a perfectly crisp line every time. No artistic skill required — just follow the steps.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/cut-crease-tutorial-beginners.html",
+    "cat": "eyes",
+    "tag": "cut crease",
+    "emoji": "✂️",
+    "reads": "7 min"
+  },
+  {
+    "id": 31,
+    "title": "How to Clean Your Makeup Brushes the Right Way",
+    "desc": "Dirty brushes cause breakouts and muddy color payoff. Learn how to deep-clean and quick-clean your brushes using products you already have at home.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/how-to-clean-makeup-brushes.html",
+    "cat": "tools",
+    "tag": "brush care",
+    "emoji": "🧹",
+    "reads": "4 min"
+  },
+  {
+    "id": 32,
+    "title": "Glitter Eye Look for Beginners: Festive & Easy",
+    "desc": "A stunning glitter eye that goes on in minutes using press-on glitter or a wet liner trick. No fallout, no mess — just maximum sparkle.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/glitter-eye-look-beginners.html",
+    "cat": "eyes",
+    "tag": "glitter",
+    "emoji": "✨",
+    "reads": "5 min"
+  },
+  {
+    "id": 33,
+    "title": "How to Fake a Tan with Bronzer: Sun-Kissed Glow Tutorial",
+    "desc": "Get a healthy sun-kissed bronzed look year-round using bronzer. Placement, blending, and product recommendations for fair to medium skin tones.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/fake-tan-bronzer-tutorial.html",
+    "cat": "contour",
+    "tag": "bronzer",
+    "emoji": "☀️",
+    "reads": "5 min"
+  },
+  {
+    "id": 34,
+    "title": "Best Drugstore Makeup for Beginners Under $10",
+    "desc": "Build a complete beginner makeup kit for under $50 using only drugstore products. Each pick tested and ranked by ease of use and payoff.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/best-drugstore-makeup-beginners-under-10.html",
+    "cat": "tools",
+    "tag": "drugstore",
+    "emoji": "🛒",
+    "reads": "6 min"
+  },
+  {
+    "id": 35,
+    "title": "Tight-lining Eyes Tutorial: Make Your Lashes Look Fuller",
+    "desc": "Tightlining fills in the gaps between your lashes for the illusion of fuller, thicker lashes without visible liner. Easier than you think.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/tight-lining-eyes-tutorial.html",
+    "cat": "eyes",
+    "tag": "tight line",
+    "emoji": "🖤",
+    "reads": "4 min"
+  },
+  {
+    "id": 36,
+    "title": "How to Apply False Lashes for Beginners — Step by Step",
+    "desc": "False lashes don't have to be scary. This beginner tutorial walks you through measuring, trimming, gluing, and placing strip lashes without frustration.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/apply-false-lashes-beginners.html",
+    "cat": "eyes",
+    "tag": "false lashes",
+    "emoji": "🦋",
+    "reads": "6 min"
+  },
+  {
+    "id": 37,
+    "title": "Strawberry Makeup Look Tutorial: Trendy & Beginner-Friendly",
+    "desc": "The viral strawberry makeup trend — freckles, rosy blush, glossy lips and warm tones — explained in simple steps anyone can follow.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/strawberry-makeup-look-tutorial.html",
+    "cat": "skin",
+    "tag": "trendy look",
+    "emoji": "🍓",
+    "reads": "5 min"
+  },
+  {
+    "id": 38,
+    "title": "How to Do a Bold Graphic Liner Look for Beginners",
+    "desc": "Geometric and graphic liner looks that are easier than they appear. Use tape guides and step-by-step sketching to nail editorial eye art.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/bold-graphic-liner-look-beginners.html",
+    "cat": "eyes",
+    "tag": "graphic liner",
+    "emoji": "🎨",
+    "reads": "7 min"
+  },
+  {
+    "id": 39,
+    "title": "How to Organize Your Makeup Collection on a Budget",
+    "desc": "Organize your growing makeup stash without spending a fortune. DIY storage ideas, affordable acrylic organizers, and decluttering tips for beginners.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/organize-makeup-collection-budget.html",
+    "cat": "tools",
+    "tag": "organization",
+    "emoji": "🗂️",
+    "reads": "5 min"
+  },
+  {
+    "id": 40,
+    "title": "How to Make Your Eyes Look Bigger with Makeup — 6 Easy Tricks",
+    "desc": "From inner corner highlight to lower lash line liner — 6 techniques that instantly open up and enlarge the appearance of your eyes.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/make-eyes-look-bigger-makeup-tricks.html",
+    "cat": "eyes",
+    "tag": "eye tricks",
+    "emoji": "👁️",
+    "reads": "5 min"
+  },
+  {
+    "id": 41,
+    "title": "Lip Gloss Layering Tutorial: Glass Lip Effect for Beginners",
+    "desc": "Stack sheer lipstick, liner, and gloss for a dimensional glass-lip effect that photos beautifully. Product combinations for every budget.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/lip-gloss-layering-glass-lip-tutorial.html",
+    "cat": "lips",
+    "tag": "lip gloss",
+    "emoji": "💎",
+    "reads": "4 min"
+  },
+  {
+    "id": 42,
+    "title": "Blush Placement Guide for Every Face Shape",
+    "desc": "Round, oval, heart, square — where you place blush changes everything. This face-shape blush guide helps you find your most flattering placement.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/blush-placement-guide-face-shape.html",
+    "cat": "contour",
+    "tag": "blush",
+    "emoji": "🌸",
+    "reads": "5 min"
+  },
+  {
+    "id": 43,
+    "title": "How to Fix Makeup Mistakes Without Starting Over",
+    "desc": "Creased concealer, fallout eyeshadow, overdrawn lips — quick fixes for the most common beginner makeup mistakes without ruining your whole look.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/fix-makeup-mistakes-without-starting-over.html",
+    "cat": "tools",
+    "tag": "tips & tricks",
+    "emoji": "🛠️",
+    "reads": "5 min"
+  },
+  {
+    "id": 44,
+    "title": "Feathery Brow Tutorial: How to Get Fuller-Looking Brows",
+    "desc": "Achieve soft, natural, feather-like brows using a pencil and clear brow gel. The technique works even on sparse or over-plucked brows.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/feathery-brow-tutorial-fuller-brows.html",
+    "cat": "brows",
+    "tag": "natural brows",
+    "emoji": "🪶",
+    "reads": "4 min"
+  },
+  {
+    "id": 45,
+    "title": "How to Apply Setting Spray to Make Makeup Last Longer",
+    "desc": "Setting sprays explained — matte vs dewy, how to apply them correctly, and when to use a face mist mid-day for a refresh without ruining your makeup.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/setting-spray-makeup-last-longer.html",
+    "cat": "skin",
+    "tag": "setting spray",
+    "emoji": "💦",
+    "reads": "4 min"
+  },
+  {
+    "id": 46,
+    "title": "Gradient Brow Tutorial: The Most Natural Brow Look",
+    "desc": "A gradient brow starts light at the inner corner and deepens toward the tail — the most natural, realistic brow technique for beginners.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/gradient-brow-tutorial-natural-look.html",
+    "cat": "brows",
+    "tag": "gradient brow",
+    "emoji": "✏️",
+    "reads": "5 min"
+  },
+  {
+    "id": 47,
+    "title": "Warm Autumn Makeup Look Tutorial for Beginners",
+    "desc": "Burnt orange, terracotta, and warm browns come together in this cozy autumn-inspired makeup look that flatters all skin tones.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/warm-autumn-makeup-look-beginners.html",
+    "cat": "eyes",
+    "tag": "seasonal look",
+    "emoji": "🍂",
+    "reads": "6 min"
+  },
+  {
+    "id": 48,
+    "title": "How to Apply BB Cream vs CC Cream — What's the Difference?",
+    "desc": "BB cream or CC cream? We explain the difference, who each one is best for, and how to apply them for a quick, effortless base.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/bb-cream-vs-cc-cream-difference.html",
+    "cat": "skin",
+    "tag": "BB cream",
+    "emoji": "🫙",
+    "reads": "5 min"
+  },
+  {
+    "id": 49,
+    "title": "Rose Quartz Makeup Look: Soft Pink Tutorial for Beginners",
+    "desc": "Soft pink eyeshadow, peachy blush, and a sheer rose lip come together in this dreamy, feminine look perfect for daytime or dates.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/rose-quartz-makeup-look-beginners.html",
+    "cat": "eyes",
+    "tag": "pink look",
+    "emoji": "🌹",
+    "reads": "5 min"
+  },
+  {
+    "id": 50,
+    "title": "How to Use Color Corrector Before Foundation",
+    "desc": "Peach for dark circles, green for redness, lavender for sallowness — a complete color corrector guide with application order and blending tips.",
+    "url": "https://glowguidebeauty.blogspot.com/2025/01/how-to-use-color-corrector-before-foundation.html",
+    "cat": "skin",
+    "tag": "color correct",
+    "emoji": "🎨",
+    "reads": "6 min"
+  }
+]
